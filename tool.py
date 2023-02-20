@@ -134,4 +134,4 @@ while True:
             if count % 10 == 0:
                 sleep(1)
                 clear()
-                print("\33[0;37;41m\")
+                print("\33[0;37;41m")
